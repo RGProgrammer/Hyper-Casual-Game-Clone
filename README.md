@@ -7,3 +7,14 @@ the different UI element are create me using Adobe XD, the music and sound effec
 the project want be open source for the moment.
 
 ## Screenshots
+<table border = 0 >
+<tr>
+	<td><img src ="1.png"></td>
+	<td><img src ="2.png"></td>
+	<td><img src ="3.png"></td>
+</tr>
+<tr>
+	<td><img src ="4.png"></td>
+	<td><img src ="5.png"></td>
+</tr>
+</table>
